@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "5xszduFNfq9cIRtg459KYXI/UTVdtjR5O724Um/JocfoFoVY0RrBzNymQyyNSWnpBRCWYq26wPnosKJW2HH3pw==",
@@ -7,4 +8,15 @@
     "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "5xszduFNfq9cIRtg459KYXI/UTVdtjR5O724Um/JocfoFoVY0RrBzNymQyyNSWnpBRCWYq26wPnosKJW2HH3pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\Exercise-revision\\StackOverflows\\StackOverflows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 06f76a5a87ce26c0097b3c5e305732e593a3df23
 }

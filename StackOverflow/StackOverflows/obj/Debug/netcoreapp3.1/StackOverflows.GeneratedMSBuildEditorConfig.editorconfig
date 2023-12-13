@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 is_global = true
 build_property.RootNamespace = StackOverflows
 build_property.ProjectDir = C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\Exercise-revision\StackOverflows\
+=======
+is_global = true
+build_property.RootNamespace = StackOverflows
+build_property.ProjectDir = C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\Exercise-revision\StackOverflows\
+>>>>>>> 06f76a5a87ce26c0097b3c5e305732e593a3df23
